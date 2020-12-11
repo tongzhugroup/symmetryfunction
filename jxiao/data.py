@@ -12,14 +12,15 @@ def dismatrix(xyz):
                 DM[A,B]=np.linalg.norm(xyz[A]-xyz[B])
             else:
                 DM[A,B]=np.infty
-    return DM 
+    return DM/0.52918 
 #T=np.array([[0,0,0],[0,0,1.5],[1,0,0],[0,0.7,1]])
 #print(dismatrix(T))
 
 def radiusG(path):
     with connect(path) as conn:
         totradius=[]
-        for row in conn.select(limit=500):
+        for row in conn.select(limit=2000):
+            Ee=row["total_energy"]
             A=[]
             for atom in row.toatoms():
                 B=[]
@@ -39,9 +40,10 @@ def radiusG(path):
             Cradius=[i for i in C if i !=0]
             Hradius=[i for i in H if i !=0]
             Oradius=[i for i in O if i !=0]
-            totradius.append([Cradius,Hradius,Oradius])
+            totradius.append([Cradius,Hradius,Oradius,[Ee]])
         return totradius
-#print(radiusG("./reference_eq.db"))
+#A=radiusG("./reference.db")
+#print(A[1])
         #print(dismatrix(C))
         #print(row['total_energy'])
         #prin t(row.data['atomic_forces'])
