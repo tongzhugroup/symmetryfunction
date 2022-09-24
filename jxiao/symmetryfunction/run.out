@@ -1,3 +1,210 @@
-{'O-H: eta=1 R_s=7': 3.928032346053327e-16, 'O-H: eta=1 R_s=8': 8.640092957672588e-22, 'O-H: eta=2 R_s=7': 7.750917697682772e-32, 'O-H: eta=2 R_s=8': 3.756355727268527e-43, 'O-H: eta=3 R_s=7': 1.5365117150165378e-47, 'O-H: eta=3 R_s=8': 1.6433225899368457e-64}
-{'H-O: eta=1 R_s=7': 1.829482456319347e-16, 'H-O: eta=1 R_s=8': 3.9751159683899523e-22, 'H-O: eta=2 R_s=7': 3.3470060579802714e-32, 'H-O: eta=2 R_s=8': 1.580154696214879e-43, 'H-O: eta=3 R_s=7': 6.123288864269438e-48, 'H-O: eta=3 R_s=8': 6.281298165450184e-65, 'H-H: eta=1 R_s=7': 2.1181397096220158e-13, 'H-H: eta=1 R_s=8': 1.5827956234536658e-18, 'H-H: eta=2 R_s=7': 4.486515829477638e-26, 'H-H: eta=2 R_s=8': 2.505241985624079e-36, 'H-H: eta=3 R_s=7': 9.503067336264274e-39, 'H-H: eta=3 R_s=8': 3.9652860505381356e-54}
-{'H-O: eta=1 R_s=7': 2.0985498897339802e-16, 'H-O: eta=1 R_s=8': 4.664976989282636e-22, 'H-O: eta=2 R_s=7': 4.4039116397025003e-32, 'H-O: eta=2 R_s=8': 2.1762010310536483e-43, 'H-O: eta=3 R_s=7': 9.24182828589594e-48, 'H-O: eta=3 R_s=8': 1.0151927733918273e-64, 'H-H: eta=1 R_s=7': 2.1181397096220158e-13, 'H-H: eta=1 R_s=8': 1.5827956234536658e-18, 'H-H: eta=2 R_s=7': 4.486515829477638e-26, 'H-H: eta=2 R_s=8': 2.505241985624079e-36, 'H-H: eta=3 R_s=7': 9.503067336264274e-39, 'H-H: eta=3 R_s=8': 3.9652860505381356e-54}
+O-H: eta=1 R_s=7 3.928032346053327e-16
+O-H: eta=1 R_s=8 8.640092957672588e-22
+O-H: eta=2 R_s=7 7.750917697682772e-32
+O-H: eta=2 R_s=8 3.756355727268527e-43
+O-H: eta=3 R_s=7 1.5365117150165378e-47
+O-H: eta=3 R_s=8 1.6433225899368457e-64
+H-O: eta=1 R_s=7 1.829482456319347e-16
+H-O: eta=1 R_s=8 3.9751159683899523e-22
+H-O: eta=2 R_s=7 3.3470060579802714e-32
+H-O: eta=2 R_s=8 1.580154696214879e-43
+H-O: eta=3 R_s=7 6.123288864269438e-48
+H-O: eta=3 R_s=8 6.281298165450184e-65
+H-H: eta=1 R_s=7 2.1181397096220158e-13
+H-H: eta=1 R_s=8 1.5827956234536658e-18
+H-H: eta=2 R_s=7 4.486515829477638e-26
+H-H: eta=2 R_s=8 2.505241985624079e-36
+H-H: eta=3 R_s=7 9.503067336264274e-39
+H-H: eta=3 R_s=8 3.9652860505381356e-54
+H-O: eta=1 R_s=7 2.0985498897339802e-16
+H-O: eta=1 R_s=8 4.664976989282636e-22
+H-O: eta=2 R_s=7 4.4039116397025003e-32
+H-O: eta=2 R_s=8 2.1762010310536483e-43
+H-O: eta=3 R_s=7 9.24182828589594e-48
+H-O: eta=3 R_s=8 1.0151927733918273e-64
+H-H: eta=1 R_s=7 2.1181397096220158e-13
+H-H: eta=1 R_s=8 1.5827956234536658e-18
+H-H: eta=2 R_s=7 4.486515829477638e-26
+H-H: eta=2 R_s=8 2.505241985624079e-36
+H-H: eta=3 R_s=7 9.503067336264274e-39
+H-H: eta=3 R_s=8 3.9652860505381356e-54
+O-H-H: eta=1 lamda=-1 zeta=4 R_s=7 76.43042112409542
+O-H-H: eta=1 lamda=-1 zeta=4 R_s=8 76.43042112409542
+O-H-H: eta=1 lamda=-1 zeta=5 R_s=7 100.36697491218135
+O-H-H: eta=1 lamda=-1 zeta=5 R_s=8 100.36697491218135
+O-H-H: eta=1 lamda=-1 zeta=6 R_s=7 131.800001947741
+O-H-H: eta=1 lamda=-1 zeta=6 R_s=8 131.800001947741
+O-H-H: eta=1 lamda=1 zeta=4 R_s=7 5.719225119772124
+O-H-H: eta=1 lamda=1 zeta=4 R_s=8 5.719225119772124
+O-H-H: eta=1 lamda=1 zeta=5 R_s=7 3.9280726219555304
+O-H-H: eta=1 lamda=1 zeta=5 R_s=8 3.9280726219555304
+O-H-H: eta=1 lamda=1 zeta=6 R_s=7 2.697875009328427
+O-H-H: eta=1 lamda=1 zeta=6 R_s=8 2.697875009328427
+O-H-H: eta=2 lamda=-1 zeta=4 R_s=7 28.92045967470007
+O-H-H: eta=2 lamda=-1 zeta=4 R_s=8 28.92045967470007
+O-H-H: eta=2 lamda=-1 zeta=5 R_s=7 37.9777974257986
+O-H-H: eta=2 lamda=-1 zeta=5 R_s=8 37.9777974257986
+O-H-H: eta=2 lamda=-1 zeta=6 R_s=7 49.871721042412965
+O-H-H: eta=2 lamda=-1 zeta=6 R_s=8 49.871721042412965
+O-H-H: eta=2 lamda=1 zeta=4 R_s=7 2.164094048079982
+O-H-H: eta=2 lamda=1 zeta=4 R_s=8 2.164094048079982
+O-H-H: eta=2 lamda=1 zeta=5 R_s=7 1.48634096465477
+O-H-H: eta=2 lamda=1 zeta=5 R_s=8 1.48634096465477
+O-H-H: eta=2 lamda=1 zeta=6 R_s=7 1.0208472525354975
+O-H-H: eta=2 lamda=1 zeta=6 R_s=8 1.0208472525354975
+O-H-H: eta=3 lamda=-1 zeta=4 R_s=7 10.944577696568288
+O-H-H: eta=3 lamda=-1 zeta=4 R_s=8 10.944577696568288
+O-H-H: eta=3 lamda=-1 zeta=5 R_s=7 14.37221120779072
+O-H-H: eta=3 lamda=-1 zeta=5 R_s=8 14.37221120779072
+O-H-H: eta=3 lamda=-1 zeta=6 R_s=7 18.873314323138572
+O-H-H: eta=3 lamda=-1 zeta=6 R_s=8 18.873314323138572
+O-H-H: eta=3 lamda=1 zeta=4 R_s=7 0.8189736856987901
+O-H-H: eta=3 lamda=1 zeta=4 R_s=8 0.8189736856987901
+O-H-H: eta=3 lamda=1 zeta=5 R_s=7 0.562486708518235
+O-H-H: eta=3 lamda=1 zeta=5 R_s=8 0.562486708518235
+O-H-H: eta=3 lamda=1 zeta=6 R_s=7 0.3863265728613938
+O-H-H: eta=3 lamda=1 zeta=6 R_s=8 0.3863265728613938
+H-O-H: eta=1 lamda=-1 zeta=4 R_s=7 0.01791489892341475
+H-O-H: eta=1 lamda=-1 zeta=4 R_s=8 0.01791489892341475
+H-O-H: eta=1 lamda=-1 zeta=5 R_s=7 0.0034424572653377755
+H-O-H: eta=1 lamda=-1 zeta=5 R_s=8 0.0034424572653377755
+H-O-H: eta=1 lamda=-1 zeta=6 R_s=7 0.0006614891925618532
+H-O-H: eta=1 lamda=-1 zeta=6 R_s=8 0.0006614891925618532
+H-O-H: eta=1 lamda=1 zeta=4 R_s=7 140.35932948121504
+H-O-H: eta=1 lamda=1 zeta=4 R_s=8 140.35932948121504
+H-O-H: eta=1 lamda=1 zeta=5 R_s=7 253.74775638597012
+H-O-H: eta=1 lamda=1 zeta=5 R_s=8 253.74775638597012
+H-O-H: eta=1 lamda=1 zeta=6 R_s=7 458.7363313069331
+H-O-H: eta=1 lamda=1 zeta=6 R_s=8 458.7363313069331
+H-O-H: eta=2 lamda=-1 zeta=4 R_s=7 0.006853315847983573
+H-O-H: eta=2 lamda=-1 zeta=4 R_s=8 0.006853315847983573
+H-O-H: eta=2 lamda=-1 zeta=5 R_s=7 0.0013169065052167572
+H-O-H: eta=2 lamda=-1 zeta=5 R_s=8 0.0013169065052167572
+H-O-H: eta=2 lamda=-1 zeta=6 R_s=7 0.00025305162959802493
+H-O-H: eta=2 lamda=-1 zeta=6 R_s=8 0.00025305162959802493
+H-O-H: eta=2 lamda=1 zeta=4 R_s=7 53.69423635925301
+H-O-H: eta=2 lamda=1 zeta=4 R_s=8 53.69423635925301
+H-O-H: eta=2 lamda=1 zeta=5 R_s=7 97.07079719871349
+H-O-H: eta=2 lamda=1 zeta=5 R_s=8 97.07079719871349
+H-O-H: eta=2 lamda=1 zeta=6 R_s=7 175.48884773681974
+H-O-H: eta=2 lamda=1 zeta=6 R_s=8 175.48884773681974
+H-O-H: eta=3 lamda=-1 zeta=4 R_s=7 0.002621724985053405
+H-O-H: eta=3 lamda=-1 zeta=4 R_s=8 0.002621724985053405
+H-O-H: eta=3 lamda=-1 zeta=5 R_s=7 0.0005037804712768304
+H-O-H: eta=3 lamda=-1 zeta=5 R_s=8 0.0005037804712768304
+H-O-H: eta=3 lamda=-1 zeta=6 R_s=7 9.680449501255966e-05
+H-O-H: eta=3 lamda=-1 zeta=6 R_s=8 9.680449501255966e-05
+H-O-H: eta=3 lamda=1 zeta=4 R_s=7 20.540643994663593
+H-O-H: eta=3 lamda=1 zeta=4 R_s=8 20.540643994663593
+H-O-H: eta=3 lamda=1 zeta=5 R_s=7 37.13427776859253
+H-O-H: eta=3 lamda=1 zeta=5 R_s=8 37.13427776859253
+H-O-H: eta=3 lamda=1 zeta=6 R_s=7 67.13297722083271
+H-O-H: eta=3 lamda=1 zeta=6 R_s=8 67.13297722083271
+H-H-O: eta=1 lamda=-1 zeta=4 R_s=7 0.0007416269154519929
+H-H-O: eta=1 lamda=-1 zeta=4 R_s=8 0.0007416269154519929
+H-H-O: eta=1 lamda=-1 zeta=5 R_s=7 0.0001425081421995055
+H-H-O: eta=1 lamda=-1 zeta=5 R_s=8 0.0001425081421995055
+H-H-O: eta=1 lamda=-1 zeta=6 R_s=7 2.7383810066787004e-05
+H-H-O: eta=1 lamda=-1 zeta=6 R_s=8 2.7383810066787004e-05
+H-H-O: eta=1 lamda=1 zeta=4 R_s=7 5.81048528507255
+H-H-O: eta=1 lamda=1 zeta=4 R_s=8 5.81048528507255
+H-H-O: eta=1 lamda=1 zeta=5 R_s=7 10.504450327957567
+H-H-O: eta=1 lamda=1 zeta=5 R_s=8 10.504450327957567
+H-H-O: eta=1 lamda=1 zeta=6 R_s=7 18.990406356592313
+H-H-O: eta=1 lamda=1 zeta=6 R_s=8 18.990406356592313
+H-H-O: eta=2 lamda=-1 zeta=4 R_s=7 5.772413434795453e-05
+H-H-O: eta=2 lamda=-1 zeta=4 R_s=8 5.772413434795453e-05
+H-H-O: eta=2 lamda=-1 zeta=5 R_s=7 1.1092045035862995e-05
+H-H-O: eta=2 lamda=-1 zeta=5 R_s=8 1.1092045035862995e-05
+H-H-O: eta=2 lamda=-1 zeta=6 R_s=7 2.131404211901753e-06
+H-H-O: eta=2 lamda=-1 zeta=6 R_s=8 2.131404211901753e-06
+H-H-O: eta=2 lamda=1 zeta=4 R_s=7 0.45225601476171384
+H-H-O: eta=2 lamda=1 zeta=4 R_s=8 0.45225601476171384
+H-H-O: eta=2 lamda=1 zeta=5 R_s=7 0.81760827357902
+H-H-O: eta=2 lamda=1 zeta=5 R_s=8 0.81760827357902
+H-H-O: eta=2 lamda=1 zeta=6 R_s=7 1.4781081228451507
+H-H-O: eta=2 lamda=1 zeta=6 R_s=8 1.4781081228451507
+H-H-O: eta=3 lamda=-1 zeta=4 R_s=7 4.492927126559228e-06
+H-H-O: eta=3 lamda=-1 zeta=4 R_s=8 4.492927126559228e-06
+H-H-O: eta=3 lamda=-1 zeta=5 R_s=7 8.633433934278033e-07
+H-H-O: eta=3 lamda=-1 zeta=5 R_s=8 8.633433934278033e-07
+H-H-O: eta=3 lamda=-1 zeta=6 R_s=7 1.658967069751357e-07
+H-H-O: eta=3 lamda=-1 zeta=6 R_s=8 1.658967069751357e-07
+H-H-O: eta=3 lamda=1 zeta=4 R_s=7 0.035201105046012315
+H-H-O: eta=3 lamda=1 zeta=4 R_s=8 0.035201105046012315
+H-H-O: eta=3 lamda=1 zeta=5 R_s=7 0.06363810272353798
+H-H-O: eta=3 lamda=1 zeta=5 R_s=8 0.06363810272353798
+H-H-O: eta=3 lamda=1 zeta=6 R_s=7 0.11504775526103397
+H-H-O: eta=3 lamda=1 zeta=6 R_s=8 0.11504775526103397
+H-O-H: eta=1 lamda=-1 zeta=4 R_s=7 0.015444377156791244
+H-O-H: eta=1 lamda=-1 zeta=4 R_s=8 0.015444377156791244
+H-O-H: eta=1 lamda=-1 zeta=5 R_s=7 0.002892000517773662
+H-O-H: eta=1 lamda=-1 zeta=5 R_s=8 0.002892000517773662
+H-O-H: eta=1 lamda=-1 zeta=6 R_s=7 0.0005415347546809574
+H-O-H: eta=1 lamda=-1 zeta=6 R_s=8 0.0005415347546809574
+H-O-H: eta=1 lamda=1 zeta=4 R_s=7 135.64620429098537
+H-O-H: eta=1 lamda=1 zeta=4 R_s=8 135.64620429098537
+H-O-H: eta=1 lamda=1 zeta=5 R_s=7 245.89229765091488
+H-O-H: eta=1 lamda=1 zeta=5 R_s=8 245.89229765091488
+H-O-H: eta=1 lamda=1 zeta=6 R_s=7 445.7406114685093
+H-O-H: eta=1 lamda=1 zeta=6 R_s=8 445.7406114685093
+H-O-H: eta=2 lamda=-1 zeta=4 R_s=7 0.005776799013152941
+H-O-H: eta=2 lamda=-1 zeta=4 R_s=8 0.005776799013152941
+H-O-H: eta=2 lamda=-1 zeta=5 R_s=7 0.0010817209115983324
+H-O-H: eta=2 lamda=-1 zeta=5 R_s=8 0.0010817209115983324
+H-O-H: eta=2 lamda=-1 zeta=6 R_s=7 0.00020255510498546543
+H-O-H: eta=2 lamda=-1 zeta=6 R_s=8 0.00020255510498546543
+H-O-H: eta=2 lamda=1 zeta=4 R_s=7 50.73696732027418
+H-O-H: eta=2 lamda=1 zeta=4 R_s=8 50.73696732027418
+H-O-H: eta=2 lamda=1 zeta=5 R_s=7 91.97330316341706
+H-O-H: eta=2 lamda=1 zeta=5 R_s=8 91.97330316341706
+H-O-H: eta=2 lamda=1 zeta=6 R_s=7 166.72436177338543
+H-O-H: eta=2 lamda=1 zeta=6 R_s=8 166.72436177338543
+H-O-H: eta=3 lamda=-1 zeta=4 R_s=7 0.0021607479861167874
+H-O-H: eta=3 lamda=-1 zeta=4 R_s=8 0.0021607479861167874
+H-O-H: eta=3 lamda=-1 zeta=5 R_s=7 0.00040460578184471293
+H-O-H: eta=3 lamda=-1 zeta=5 R_s=8 0.00040460578184471293
+H-O-H: eta=3 lamda=-1 zeta=6 R_s=7 7.576350400602582e-05
+H-O-H: eta=3 lamda=-1 zeta=6 R_s=8 7.576350400602582e-05
+H-O-H: eta=3 lamda=1 zeta=4 R_s=7 18.977603290220827
+H-O-H: eta=3 lamda=1 zeta=4 R_s=8 18.977603290220827
+H-O-H: eta=3 lamda=1 zeta=5 R_s=7 34.401600113554224
+H-O-H: eta=3 lamda=1 zeta=5 R_s=8 34.401600113554224
+H-O-H: eta=3 lamda=1 zeta=6 R_s=7 62.361409513852436
+H-O-H: eta=3 lamda=1 zeta=6 R_s=8 62.361409513852436
+H-H-O: eta=1 lamda=-1 zeta=4 R_s=7 0.0006687758346381025
+H-H-O: eta=1 lamda=-1 zeta=4 R_s=8 0.0006687758346381025
+H-H-O: eta=1 lamda=-1 zeta=5 R_s=7 0.0001252300458874405
+H-H-O: eta=1 lamda=-1 zeta=5 R_s=8 0.0001252300458874405
+H-H-O: eta=1 lamda=-1 zeta=6 R_s=7 2.344965768904737e-05
+H-H-O: eta=1 lamda=-1 zeta=6 R_s=8 2.344965768904737e-05
+H-H-O: eta=1 lamda=1 zeta=4 R_s=7 5.873781931717719
+H-H-O: eta=1 lamda=1 zeta=4 R_s=8 5.873781931717719
+H-H-O: eta=1 lamda=1 zeta=5 R_s=7 10.647682643534791
+H-H-O: eta=1 lamda=1 zeta=5 R_s=8 10.647682643534791
+H-H-O: eta=1 lamda=1 zeta=6 R_s=7 19.301558518070046
+H-H-O: eta=1 lamda=1 zeta=6 R_s=8 19.301558518070046
+H-H-O: eta=2 lamda=-1 zeta=4 R_s=7 5.205380943299139e-05
+H-H-O: eta=2 lamda=-1 zeta=4 R_s=8 5.205380943299139e-05
+H-H-O: eta=2 lamda=-1 zeta=5 R_s=7 9.747213649603663e-06
+H-H-O: eta=2 lamda=-1 zeta=5 R_s=8 9.747213649603663e-06
+H-H-O: eta=2 lamda=-1 zeta=6 R_s=7 1.8251915655341901e-06
+H-H-O: eta=2 lamda=-1 zeta=6 R_s=8 1.8251915655341901e-06
+H-H-O: eta=2 lamda=1 zeta=4 R_s=7 0.4571826754027909
+H-H-O: eta=2 lamda=1 zeta=4 R_s=8 0.4571826754027909
+H-H-O: eta=2 lamda=1 zeta=5 R_s=7 0.8287566842624554
+H-H-O: eta=2 lamda=1 zeta=5 R_s=8 0.8287566842624554
+H-H-O: eta=2 lamda=1 zeta=6 R_s=7 1.502326484932037
+H-H-O: eta=2 lamda=1 zeta=6 R_s=8 1.502326484932037
+H-H-O: eta=3 lamda=-1 zeta=4 R_s=7 4.051580419248314e-06
+H-H-O: eta=3 lamda=-1 zeta=4 R_s=8 4.051580419248314e-06
+H-H-O: eta=3 lamda=-1 zeta=5 R_s=7 7.586691616835741e-07
+H-H-O: eta=3 lamda=-1 zeta=5 R_s=8 7.586691616835741e-07
+H-H-O: eta=3 lamda=-1 zeta=6 R_s=7 1.4206280940523543e-07
+H-H-O: eta=3 lamda=-1 zeta=6 R_s=8 1.4206280940523543e-07
+H-H-O: eta=3 lamda=1 zeta=4 R_s=7 0.03558456904227112
+H-H-O: eta=3 lamda=1 zeta=4 R_s=8 0.03558456904227112
+H-H-O: eta=3 lamda=1 zeta=5 R_s=7 0.06450583330700067
+H-H-O: eta=3 lamda=1 zeta=5 R_s=8 0.06450583330700067
+H-H-O: eta=3 lamda=1 zeta=6 R_s=7 0.11693277852227689
+H-H-O: eta=3 lamda=1 zeta=6 R_s=8 0.11693277852227689
